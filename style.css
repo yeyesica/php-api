@@ -1,10 +1,10 @@
 body{
 	background:#77F3F7;
-     background:-webkit-linear-gradient(right,#A23AF9 15%,#77F3F7 75%);
-     background:-moz-linear-gradient(right,#A23AF9 15%,#77F3F7 75%);
-     background:-o-linear-gradient(right,#A23AF9 15%,#77F3F7 75%);
-     background:-ms-linear-gradient(right,#A23AF9 15%,#77F3F7 75%);
-     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#A23AF9',endColorstr='#77F3F7',GradientType=1);
+    background:-webkit-linear-gradient(right,#A23AF9 15%,#77F3F7 75%);
+    background:-moz-linear-gradient(right,#A23AF9 15%,#77F3F7 75%);
+    background:-o-linear-gradient(right,#A23AF9 15%,#77F3F7 75%);
+    background:-ms-linear-gradient(right,#A23AF9 15%,#77F3F7 75%);
+    filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#A23AF9',endColorstr='#77F3F7',GradientType=1);
 }
 table {
 	background-color: white;
@@ -128,7 +128,7 @@ input{
 	font-size: 16px;
 }
 
-/*submit button*/
+/*simpan button*/
 .bg-blue{
 	background-color: rgb(119, 0,255) ;
 	color: #fff;
